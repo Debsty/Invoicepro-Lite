@@ -62,3 +62,68 @@ It was built entirely on an Android phone using **Pydroid** and deployed using *
 ## 📄 License
 
 This project is open-source under the [MIT License](LICENSE).
+
+# InvoicePro Lite 🧾
+
+**InvoicePro Lite** is a mobile-friendly Python app that helps freelancers and small business owners generate professional invoices quickly and easily.
+
+This project was built entirely on an **Android phone** using **Pydroid** and deployed using **Streamlit**. It was created as part of the **3MTT July Knowledge Showcase** to solve a real-world challenge.
+
+---
+
+## 🚀 Features
+
+- 📋 User-friendly form to enter client and service details
+- 🧾 Auto-generates Excel invoices with VAT and payment instructions
+- 📱 Designed for mobile use
+- ☁️ Online demo — no installation required
+
+---
+
+## 📲 Try It Live
+
+👉 [Click here to try the live demo app](https://invoicepro-lite-j2xdvnvgnortb54nmcm8ya.streamlit.app)
+
+---
+
+## 🎥 Watch the Demo Video
+
+▶️ [YouTube Demo – How It Works](https://youtu.be/3A-GWOr2T6M?si=jrDhOYv4FdCC9ubH)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Pydroid (for mobile development)
+- Pandas & OpenPyXL
+
+---
+
+## 📁 Project Files
+
+- `invoicepro_lite.py` – Main app script
+- `requirements.txt` – List of dependencies
+- `README.md` – Project documentation
+
+---
+
+## 👩🏽‍💻 Author
+
+**Agbaje Deborah**  
+[LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINK-HERE)
+
+---
+
+## 📄 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Special Thanks
+
+Big thanks to the **3MTT community** for the learning opportunity and support.
+
+#3MTT #InvoiceProLite #PythonDeveloper #WomenInTech #OpenSource #MobileDevelopment #Streamlit #TechInNigeria #BuiltOnPhone
