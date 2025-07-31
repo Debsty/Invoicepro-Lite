@@ -38,7 +38,7 @@ It was built entirely on an Android phone using **Pydroid** and deployed using *
 
 ## 🎥 Watch the Demo
 
-▶️ [YouTube video](https://youtu.be/YOUR-LINK-HERE)
+▶️ [https://youtu.be/IwR2fYeZrVw?si=CjuNHXBYKYqlB7Mx)
 
 ## 📁 Project Files
 
@@ -57,7 +57,7 @@ It was built entirely on an Android phone using **Pydroid** and deployed using *
 ## 🧑🏽‍💻 Author
 
 **Agbaje Deborah**  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
+https://www.linkedin.com/posts/agbaje-deborah-919696201_july-30-2025-activity-7356319811850706944-0PaX?utm_source=share&utm_medium=member_android&rcm=ACoAADOJXqUBsU5kE5xm3f2L8JFoAfONxDJeZNU
 
 ## 📄 License
 
@@ -82,7 +82,7 @@ This project was built entirely on an **Android phone** using **Pydroid** and de
 
 ## 📲 Try It Live
 
-👉 [Click here to try the live demo app](https://invoicepro-lite-j2xdvnvgnortb54nmcm8ya.streamlit.app)
+👉 [Click here to try the live demo apphttps://invoicepro-lite-j2xdvnvgnortb54nmcm8ya.streamlit.app])
 
 ---
 
@@ -112,7 +112,7 @@ This project was built entirely on an **Android phone** using **Pydroid** and de
 ## 👩🏽‍💻 Author
 
 **Agbaje Deborah**  
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINK-HERE)
+[LinkedIn Profile](https://www.linkedin.com/posts/agbaje-deborah-919696201_july-30-2025-activity-7356319811850706944-0PaX?utm_source=share&utm_medium=member_android&rcm=ACoAADOJXqUBsU5kE5xm3f2L8JFoAfONxDJeZNU)
 
 ---
 
