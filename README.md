@@ -61,7 +61,7 @@ https://www.linkedin.com/posts/agbaje-deborah-919696201_july-30-2025-activity-73
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](https://github.com/Debsty/Invoicepro-Lite/blob/main/LICENSE).
 
 # InvoicePro Lite 🧾
 
@@ -82,7 +82,7 @@ This project was built entirely on an **Android phone** using **Pydroid** and de
 
 ## 📲 Try It Live
 
-👉 [Click here to try the live demo apphttps://invoicepro-lite-j2xdvnvgnortb54nmcm8ya.streamlit.app])
+👉 [Click here to try the live demo https://invoicepro-lite-j2xdvnvgnortb54nmcm8ya.streamlit.app)
 
 ---
 
@@ -118,7 +118,7 @@ This project was built entirely on an **Android phone** using **Pydroid** and de
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](https://github.com/Debsty/Invoicepro-Lite/blob/main/LICENSE.
 
 ---
 
